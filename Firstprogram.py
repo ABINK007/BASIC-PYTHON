@@ -1,0 +1,2 @@
+
+print("My name is abinash kar....", "I am 21 years old age Boy","I am leave in Mantridi which is nearer to Maa bhairavi tample mantridi","I am persuing my MCA postgraduation in National institute of science and technology....")
