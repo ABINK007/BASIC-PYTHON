@@ -1,4 +1,4 @@
-# (Character (#) star show one line comment in python)
+# (Character (#  and  Ctrl+/) star show one line comment in python)
 '''And (character ('''''') is show multiple line comment in python)'''
 
 '''It is is my 1st program in python
@@ -8,4 +8,9 @@ And here i am print the question like
 
 print("Hello world")
 
+
 '''print(Abinash)'''#Here it shows it is comment line in python....
+
+
+
+
